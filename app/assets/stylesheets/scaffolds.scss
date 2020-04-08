@@ -3,6 +3,7 @@ h1 {
   font-size: 48px;
   font-family: 'Audiowide', cursive;
   color: orange;
+  margin: 10px 30px 20px 30px;
 }
 
 h2 {
@@ -12,6 +13,7 @@ h2 {
 }
 
 body {
+  float: left;
   background-color: #F0F8FF;
   color: #333;
   margin: 10px 30px 20px 30px;
@@ -24,6 +26,7 @@ p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
   line-height: 18px;
+  width: 100px;
 }
 
 pre {
@@ -49,6 +52,9 @@ th {
   padding-top: 30px;
   padding-bottom: 5px;
   font-size: 18px;
+  .投稿者名 {
+    width: 50px;
+  }
 }
 
 td {
@@ -56,8 +62,12 @@ td {
 }
 
 div {
-  &.field, &.actions {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
+  &.field_name {
+    margin-top: 100px;
+  }
+  &.field_comment {
+    margin-top: 40px;
   }
 }
 
@@ -96,4 +106,19 @@ div {
 
 label {
   display: block;
+  margin-top: 30px;
+}
+
+textarea#post_name {
+  width: 300px;
+}
+
+textarea#post_comment {
+  width: 400px;
+  height: 100px;
+}
+
+input#post_youtube_url {
+  width: 400px;
+  height: 20px;
 }
