@@ -1,24 +1,22 @@
-# README
+・アプリ名
+Vtuber-station
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+・概要
+自分の好きなYoutube(主にVtuber)の動画を紹介文付きで投稿でき、他のユーザーが投稿した動画をその場で再生できるサイト
 
-Things you may want to cover:
+・本番環境(デプロイ先　テストアカウント＆ID)
 
-* Ruby version
+・制作背景(意図)
+僕はYoutubeでバーチャルYoutuber(通称Vtuber)の配信・動画を見るのが趣味なのですが、Vtuberが好きな人達の間でも自分がまだ知らないVtuberが大勢いるはずなので、面白い配信・動画を投稿し合うことで、新たなVtuberを知るきっかけになると思い、制作しました。
 
-* System dependencies
+＜以下追記予定＞
 
-* Configuration
+・DEMO(gifで動画や写真を貼って、ビューのイメージを掴んでもらいます)
 
-* Database creation
+※工夫したポイント
 
-* Database initialization
+※使用技術(開発環境)
 
-* How to run the test suite
+※課題や今後実装したい機能
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+・DB設計
