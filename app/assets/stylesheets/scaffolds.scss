@@ -13,9 +13,8 @@ h2 {
 }
 
 body {
-  float: left;
-  background-color: #F0F8FF;
-  color: #333;
+  background-color: rgb(104, 168, 224);
+  color: rgb(5, 5, 5);
   margin: 10px 30px 20px 30px;
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
@@ -43,7 +42,7 @@ a {
   }
 
   &:hover {
-    color: #fff;
+    color: rgba(28, 206, 96, 0.555);
     background-color: #000;
   }
 }
