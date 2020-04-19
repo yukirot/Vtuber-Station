@@ -10,7 +10,11 @@ Vtuber-station
 僕はYoutubeでバーチャルYoutuber(通称Vtuber)の配信・動画を見るのが趣味なのですが、Vtuberが好きな人達の間でも自分がまだ知らないVtuberが大勢いるはずなので、面白い配信・動画を投稿し合うことで、新たなVtuberを知るきっかけになると思い、制作しました。
 
 ・DEMO
-https://github.com/yukirot/Vtuber-Station.wiki.git
+ログイン機能
+![result](https://github.com/yukirot/mediafile/blob/mediafile/ログイン機能_サンプル.gif)
+
+動画投稿機能
+![result](https://github.com/yukirot/mediafile/blob/mediafile/動画投稿サンプル.gif)
 
 ※工夫したポイント
 
