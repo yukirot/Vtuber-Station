@@ -1,5 +1,5 @@
 h1 {
-  float: left;
+  text-align: center;
   font-size: 48px;
   font-family: 'Audiowide', cursive;
   color: orange;
@@ -110,11 +110,14 @@ label {
 
 textarea#post_name {
   width: 300px;
+  height: 24px;
+  font-size: 15px;
 }
 
 textarea#post_comment {
   width: 400px;
   height: 100px;
+  font-size: 13px;
 }
 
 input#post_youtube_url {

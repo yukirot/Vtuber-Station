@@ -9,11 +9,11 @@ Vtuber-station
 ・制作背景(意図)
 僕はYoutubeでバーチャルYoutuber(通称Vtuber)の配信・動画を見るのが趣味なのですが、Vtuberが好きな人達の間でも自分がまだ知らないVtuberが大勢いるはずなので、面白い配信・動画を投稿し合うことで、新たなVtuberを知るきっかけになると思い、制作しました。
 
-＜以下追記予定＞
-
-・DEMO(gifで動画や写真を貼って、ビューのイメージを掴んでもらいます)
+・DEMO
+https://github.com/yukirot/Vtuber-Station.wiki.git
 
 ※工夫したポイント
+
 
 ※使用技術(開発環境)
 
