@@ -11,10 +11,10 @@ Vtuber-station
 
 ・DEMO
 ログイン機能
-![result](https://github.com/yukirot/mediafile/blob/mediafile/ログイン機能_サンプル.gif)
+![result](https://github.com/yukirot/Vtuber-station/blob/mediafile/ログイン機能_サンプル.gif)
 
 動画投稿機能
-![result](https://github.com/yukirot/mediafile/blob/mediafile/動画投稿サンプル.gif)
+![result](https://github.com/yukirot/Vtuber-station/blob/mediafile/動画投稿サンプル.gif)
 
 ※工夫したポイント
 
